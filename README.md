@@ -1,6 +1,28 @@
 Hi my name is Angel 👋
 ```
-bjbjbjbjbj
+def main():
+    my = {
+        "name": "Angel Coronado",
+        "favorite_languages":{
+            "python": "python",
+            "lua": "lua",
+            "dart": "dart",
+            "javascript": "javascript"
+        },
+        "job": "junior software developer",
+        "objective": "learn more every day to offer a better quality of work",
+        "lookingfor": "https://github.com/Hunter-55"
+    }
+    for i in my:
+        if i != "favorite_languages":
+            print(i,":",my[i])
+        else:
+            print(i,":")
+            for j in my[i]:
+                print("\t",j,":",my[i][j])
+        
+if __name__ == "__main__":
+    main()
 ```
 
 <div align="center">
