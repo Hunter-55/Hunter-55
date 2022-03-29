@@ -1,4 +1,6 @@
-<h3>Hi my name is Angel 👋</h3>
+Hi my name is Angel 👋
+```cansjnajncjnj
+```
 
 <div align="center">
   <a href="https://github.com/Hunter-55">
@@ -16,8 +18,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-```cansjnajncjnj
-```
 
 
 - 🔭 I’m currently working on
