@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-   ```
+```
 def main():
     my = {
         "name": "Angel Coronado",
@@ -49,13 +49,3 @@ if __name__ == "__main__":
     
 </div>
     
-
-
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with
-- 💬 Ask me about
-- 📫 How to reach me:
-- 😄 Pronouns:
-- ⚡ Fun fact:
