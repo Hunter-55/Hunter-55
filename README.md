@@ -16,14 +16,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-<div> 
-    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
-    
- ```
+  
+   ```
 def main():
     my = {
         "name": "Angel Coronado",
@@ -48,6 +42,13 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+<div> 
+    
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
+    
 
 
 - 🔭 I’m currently working on
