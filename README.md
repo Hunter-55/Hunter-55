@@ -1,4 +1,5 @@
-<h3>Hi my name is Angel 👋</h3>
+<body>
+  <h3>Hi my name is Angel 👋</h3>
 
 <div align="center">
   <a href="https://github.com/Hunter-55">
@@ -21,3 +22,4 @@
 - 📫 How to reach me:
 - 😄 Pronouns:
 - ⚡ Fun fact:
+</body>
