@@ -1,4 +1,4 @@
-<body style="background-color: black;">
+<body style="background-color:#FF0000;">
   <h3>Hi my name is Angel 👋</h3>
 
 <div align="center">
