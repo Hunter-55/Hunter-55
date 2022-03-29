@@ -1,7 +1,6 @@
-##Hi my name is Angel 👋
+## Hi my name is Angel 👋
 
-```
-def main():
+```def main():
     my = {
         "name": "Angel Coronado",
         "favorite_languages":{
