@@ -1,5 +1,9 @@
 ## Hi my name is Angel 👋
 
+<h4 align="center">Visitors :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Hunter-55}/count.svg" alt="Hunter-55 :: Visitor's Count" /></p>
+
 <div align="center">
   <a href="https://github.com/Hunter-55">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hunter-55&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
