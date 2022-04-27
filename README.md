@@ -1,6 +1,6 @@
 ## Hi my name is Angel 👋
 
-<h4 align="center">Visitors :eyes:</h4>
+<h4 align="center">Visitors</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Hunter-55}/count.svg" alt="Hunter-55 :: Visitor's Count" /></p>
 
